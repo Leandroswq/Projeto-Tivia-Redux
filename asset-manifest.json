@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Projeto-Tivia-Redux/static/css/main.953d6d51.chunk.css",
+    "main.js": "/Projeto-Tivia-Redux/static/js/main.09b0beaf.chunk.js",
+    "main.js.map": "/Projeto-Tivia-Redux/static/js/main.09b0beaf.chunk.js.map",
+    "runtime-main.js": "/Projeto-Tivia-Redux/static/js/runtime-main.0cd297d3.js",
+    "runtime-main.js.map": "/Projeto-Tivia-Redux/static/js/runtime-main.0cd297d3.js.map",
+    "static/js/2.76e0b40e.chunk.js": "/Projeto-Tivia-Redux/static/js/2.76e0b40e.chunk.js",
+    "static/js/2.76e0b40e.chunk.js.map": "/Projeto-Tivia-Redux/static/js/2.76e0b40e.chunk.js.map",
+    "index.html": "/Projeto-Tivia-Redux/index.html",
+    "precache-manifest.263ab4a4a81882d2e4cbd8c7a23476ff.js": "/Projeto-Tivia-Redux/precache-manifest.263ab4a4a81882d2e4cbd8c7a23476ff.js",
+    "service-worker.js": "/Projeto-Tivia-Redux/service-worker.js",
+    "static/css/main.953d6d51.chunk.css.map": "/Projeto-Tivia-Redux/static/css/main.953d6d51.chunk.css.map",
+    "static/js/2.76e0b40e.chunk.js.LICENSE.txt": "/Projeto-Tivia-Redux/static/js/2.76e0b40e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd297d3.js",
+    "static/js/2.76e0b40e.chunk.js",
+    "static/css/main.953d6d51.chunk.css",
+    "static/js/main.09b0beaf.chunk.js"
+  ]
+}
