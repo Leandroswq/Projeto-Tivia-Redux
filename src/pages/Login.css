@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.login {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  margin: auto;
+}
+
+.form-login {
+  align-items: center;
+  animation-duration: 1000ms;
+  animation-fill-mode: backwards;
+  animation-name: fade;
+  background-color: rgb(219, 219, 219);
+  border-radius: 10px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  justify-content: space-evenly;
+  margin: 200px auto;
+  margin-top: 50%;
+  text-align: center;
+  width: 400px;
+}
+
+.input-login {
+  border: white;
+  border-radius: 5px;
+  height: 25px;
+  margin: 5px;
+  padding: 10px;
+  width: 250px;
+}
+
+.btn-login {
+  background-color: rgb(4, 80, 80);
+  border: rgb(4, 80, 80);
+  border-radius: 5px;
+  color: aliceblue;
+  height: 25px;
+  width: 240px;
+
+}
+
+.btn-login:hover {
+  background-color: rgb(3, 58, 58);
+  border: rgb(3, 58, 58);
+  border-radius: 5px;
+  color: aliceblue;
+  height: 30px;
+  width: 250px;
+}
+
+.btn-settings {
+  background-color: rgb(22, 114, 114);
+  border: rgb(22, 114, 114);
+  border-radius: 5px;
+  color: aliceblue;
+  height: 30px;
+  width: 250px;
+}
+
+.btn-settings:hover {
+  background-color: rgb(18, 100, 100);
+  border: rgb(18, 100, 100);
+  border-radius: 5px;
+  color: aliceblue;
+  height: 30px;
+  width: 250px;
+}
+
+@keyframes fade {
+
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

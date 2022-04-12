@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.questions {
+  align-items: center;
+  background-color: rgba(219, 219, 219, 0.5);
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  justify-content: space-evenly;
+  margin-top: 150px;
+  padding-top: 20px;
+}
+
+.questions__next-question {
+  background-color: rgb(22, 114, 114);
+  border: rgb(22, 114, 114);
+  border-radius: 5px;
+  color: aliceblue;
+  height: 30px;
+  margin: 15px auto;
+  width: 250px;
+}

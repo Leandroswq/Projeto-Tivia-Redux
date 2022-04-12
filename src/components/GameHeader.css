@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header-game {
+  align-items: center;
+  color: black;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  width: 100vw;
+}
+
+.span-header {
+  font-size: 18px;
+  margin-right: 50px;
+}
+
+.imagem-game {
+  border-radius: 30px;
+  height: 30px;
+  width: 30px;
+}

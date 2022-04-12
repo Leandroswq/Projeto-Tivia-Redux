@@ -1,0 +1,30 @@
+.timer {
+  font-size: 40px;
+  margin: 10px;
+}
+
+.timer.pulse {
+  animation-delay: 0;
+  animation-direction: forward;
+  animation-duration: 1s;
+  animation-iteration-count: 5;
+  animation-name: pulse;
+}
+
+@keyframes pulse {
+
+  0% {
+    color: black;
+    transform: scale(1);
+  }
+
+  50% {
+    color: red;
+    transform: scale(1.5);
+  }
+
+  100% {
+    color: black;
+    transform: scale(1);
+  }
+}
