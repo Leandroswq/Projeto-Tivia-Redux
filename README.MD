@@ -21,6 +21,17 @@ O projeto trivia é uma aplicação React, que utiliza a api <https://opentdb.co
 - Criar uma aplicação que simula um jogo de perguntas perguntas
 - Testar os conhecimentos do grupo em relação ao React e Redux
 
+
+## Requisitos para executar a aplicação
+
+- javascript versão 16(lts)
+
+## Como executar a plicação
+
+- npm install
+- npm start
+
+
 ## Integrantes 
  - [Leandro Bonfim](https://github.com/Leandroswq)
  - [Nikolas Firmo Cardoso](https://github.com/Nikolas-Firmo-Cardoso)
